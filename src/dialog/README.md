@@ -63,7 +63,7 @@ Opens a message box with the specified `title`, `message` ang a series of `butto
 
 *   `label`: the label of the button
 *   `result`: the result used to invoke the close method of the dialog
-*   `cssClass`: optinal, the CSS class (e.g. btn-primary) to apply to the button
+*   `cssClass`: optional, the CSS class (e.g. btn-primary) to apply to the button
 
 Example:
 
